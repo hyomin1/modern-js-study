@@ -9,4 +9,4 @@
 - 예제 코드 실행 및 분석
 
 ## 📂 챕터별 학습 내용
-**1. [ch1. 프로그래밍](./ch-01-programming/README.md)**
+**1. [ch1. 프로그래밍](./ch01-programming/README.md)**
