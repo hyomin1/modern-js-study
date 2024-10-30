@@ -9,4 +9,6 @@
 - 예제 코드 실행 및 분석
 
 ## 📂 챕터별 학습 내용
-**1. [ch1. 프로그래밍](./ch01-programming/README.md)**
+**[1. ch1. 프로그래밍](./ch01-programming/ch01.md)**
+
+**[2. ch2. 자바스크립트란?](./ch02-javascript/ch02.md)**
