@@ -12,3 +12,5 @@
 **[1. ch1. 프로그래밍](./ch01-programming/ch01.md)**
 
 **[2. ch2. 자바스크립트란?](./ch02-javascript/ch02.md)**
+
+**[3. ch3. 자바스크립트 개발 환경과 실행 방법?](./ch03-javascript-develop/ch03.md)**
