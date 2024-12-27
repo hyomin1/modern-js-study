@@ -23,3 +23,5 @@
 **[CH5. 표현식과 문](./ch05-expressions-and-statements/ch05.md)**
 
 **[CH6. 데이터 타입](./ch06-datatype/ch06.md)**
+
+**[CH7. 연산자](./ch07-operator/ch07.md)**
